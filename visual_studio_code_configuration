@@ -1,6 +1,10 @@
 {
-	"editor.insertSpaces": false,
-    "files.trimFinalNewlines": true,
+    "terminal.integrated.shell.osx": "zsh",
+    "editor.insertSpaces": false,
     "files.trimTrailingWhitespace": true,
-    "files.insertFinalNewline": true
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "terminal.integrated.rendererType": "dom",
+    "42header.username": "abezanni",
+    "42header.email": "abezanni@student.42.fr",
 }
